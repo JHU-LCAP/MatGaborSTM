@@ -16,6 +16,7 @@
 % bioRxiv. https://doi.org/10.1101/2025.05.22.655464
 % =========================================================================
 
+
 %% 1. Parameters
 
 fmin = 125;                % Minimum frequency for the spectrogram
@@ -36,7 +37,7 @@ x = x / max(abs(x)) * 0.98;             % Avoid clipping
 
 %% 3. Compute and plot spectrogram
 
-[y, time, freqs] = GetSpectrogram(x, fs, fmin, fmax, channelsPerOct);
+[y, time, freqs] = GetSpectrogram(x, fs, fmin, fmax, channelsPerOct); % The amtoolbox must be downloaded and running
 figure;
 PlotSpectrogram(y, time, freqs);
 title('Spectrogram');
