@@ -36,7 +36,7 @@ STEP_SCALE = 0.25;
 
 %% 2. Load audio
 
-audio_file = 'examples/audio.wav';
+audio_file = 'example/audio.wav';
 
 [x, fs] = audioread(audio_file);
 x = mean(x, 2);                         % Mono mix
