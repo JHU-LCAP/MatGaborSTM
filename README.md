@@ -34,3 +34,10 @@ addpath(genpath('path_to_amtoolbox'));
 ## Example audio
 The example audio file is derived from the **LJ Speech Dataset** (public domain):  
 https://keithito.com/LJ-Speech-Dataset/
+
+## Data availability
+Data are available on Zenodo: 
+
+Huet, M.-P., & Elhilali, M. (2026). 
+The shape of attention reflects flexible filtering of natural speech modulations. [Data set]. 
+Zenodo. https://doi.org/10.5281/zenodo.19745687
