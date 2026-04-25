@@ -1,5 +1,6 @@
 % =========================================================================%
-% Author: MP Huet (mphuet@jhu.edu)
+% Author: Huet, M.-Ph., & Elhilali, M.
+% Contact: mphuet@jhu.edu
 % If used, please cite:
 % Huet & Elhilali (2025), bioRxiv, https://doi.org/10.1101/2025.05.22.655464
 % =========================================================================

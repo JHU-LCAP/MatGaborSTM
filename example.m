@@ -1,7 +1,7 @@
 % =========================================================================
 % Example: Compute the Modulation Power Spectrum (MPS) / Modulation Response Function (MRF)
 %
-% Author: Moïra-Phoebé Huet (MP Huet)
+% Author: Huet, M.-Ph., & Elhilali, M.
 % Email:  mphuet@jhu.edu
 % Date:   2025-07-16
 % Update: 2026-04-25
