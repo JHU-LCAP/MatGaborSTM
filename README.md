@@ -41,3 +41,18 @@ Data are available on Zenodo:
 Huet, M.-P., & Elhilali, M. (2026). 
 The shape of attention reflects flexible filtering of natural speech modulations. [Data set]. 
 Zenodo. https://doi.org/10.5281/zenodo.19745687
+
+## Reference
+
+If you find the code useful for your research, please consider citing:
+
+```bibtex
+@article{huet2025shape,
+  title={The shape of attention: How cognitive goals sculpt cortical representation of speech},
+  author={Huet, Moira-Phoebe and Elhilali, Mounya},
+  journal={bioRxiv. https://doi.org/10.1101/2025.05.22.655464},
+  year={2025}
+}
+```
+
+
